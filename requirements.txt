@@ -1,0 +1,12 @@
+#segementation
+tensorflow
+python==3.10.0
+matplotlib
+opencv-python
+segmentation-models
+graphviz
+scikit-learn
+pydot
+
+
+#
